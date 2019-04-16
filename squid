@@ -1,1 +1,2 @@
+# sudo cp -RFa /etc/squid/squid.conf squid.old
 
